@@ -1,6 +1,4 @@
-## Topics of laboratory exercises
-
-Laboratories for Knowledge Discovery Methods:
+# Topics of laboratory exercises
 
 1. [Single linear regression](https://github.com/igordzierwa/knowledge-discovery-methods-labs/blob/main/single_linear_regression/single_linear_regression.ipynb)
 2. [Linear regression with multiple variables](https://github.com/igordzierwa/knowledge-discovery-methods-labs/blob/main/linear_regression_multiple_variables/linear_regression_with_multiple_variables.ipynb)
